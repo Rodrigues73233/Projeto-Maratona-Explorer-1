@@ -1,9 +1,4 @@
-# HTML
-- HyperText Markup Language
+# Maratona Explorer
 
-- Hiper Texto?
-- Marcação
-  - tags
-  - atributos
-- Linguagem
-  - maneira de escrever
+Link para acessar o projeto:
+https://rodrigues73233.github.io/Projeto-Maratona-Explorer-1/
